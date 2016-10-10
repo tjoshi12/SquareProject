@@ -1,0 +1,16 @@
+from Myro import *
+init("sim") #if your simulator is not running
+penDown()
+forward(2,2)
+penUp()
+turnBy(90)
+penDown()
+forward(2,2)
+penUp()
+turnBy(90)
+penDown()
+forward(2,2)
+penUp()
+turnBy(90)
+penDown()
+forward(2,2)
