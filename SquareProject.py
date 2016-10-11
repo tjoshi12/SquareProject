@@ -75,5 +75,11 @@ def makeletter():
     forward(2,2)
     penUp()
     turnBy(90)
-    forward(1,1)    
+    forward(1,1)
+    
+# Creating a letter was different than a shape
+# because while shapes have the same angles
+# and are uniform, letter are not symetterical
+# and uniform. Therefore, you have to think quite
+# a bit more to create a letter than a shape.    
 
